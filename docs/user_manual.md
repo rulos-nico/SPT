@@ -105,7 +105,7 @@ Un ensayo SPT estándar se compone de tres intervalos de 150 mm:
 
 ### Paso 3 – Intervalo de asentamiento
 
-1. Hacer clic en **Zero Depth** para cero el encoder en la posición inicial.
+1. Hacer clic en **Zero Depth** para poner en cero el encoder en la posición inicial.
 2. Hacer clic en **Seating (0)** para iniciar el intervalo de asentamiento.
 3. Ejecutar los golpes del intervalo de asentamiento (150 mm).
    - El sistema registra cada golpe automáticamente.

@@ -101,7 +101,7 @@ class Dashboard:
         bar.grid(row=0, column=0, sticky="ew")
         bar.columnconfigure(3, weight=1)
 
-        ttk.Label(bar, text="Port:").pack(side=tk.LEFT, padx=2)
+        ttk.Label(bar, text="Puerto serial:").pack(side=tk.LEFT, padx=2)
         self._port_var = tk.StringVar()
         self._port_combo = ttk.Combobox(
             bar, textvariable=self._port_var, width=14, state="readonly"
